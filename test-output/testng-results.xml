@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T16:22:57 IST" name="Suite" finished-at="2023-02-21T16:23:31 IST" duration-ms="33434">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T16:22:57 IST" name="Test" finished-at="2023-02-21T16:23:31 IST" duration-ms="33434">
+      <class name="com.htmlProject.testclass.TC_01_LoginTest">
+        <test-method is-config="true" signature="setReport()[pri:0, instance:com.htmlProject.testclass.TC_01_LoginTest@54a7079e]" started-at="2023-02-21T16:22:57 IST" name="setReport" finished-at="2023-02-21T16:22:57 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.htmlProject.testclass.TC_01_LoginTest@54a7079e]" started-at="2023-02-21T16:22:57 IST" name="setup" finished-at="2023-02-21T16:23:10 IST" duration-ms="13081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginverify()[pri:0, instance:com.htmlProject.testclass.TC_01_LoginTest@54a7079e]" started-at="2023-02-21T16:23:10 IST" name="loginverify" finished-at="2023-02-21T16:23:30 IST" duration-ms="20068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginverify -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.htmlProject.testclass.TC_01_LoginTest@54a7079e]" started-at="2023-02-21T16:23:30 IST" name="closeBrowser" finished-at="2023-02-21T16:23:31 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.htmlProject.testclass.TC_01_LoginTest@54a7079e]" started-at="2023-02-21T16:23:31 IST" name="endReport" finished-at="2023-02-21T16:23:31 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.htmlProject.testclass.TC_01_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
