@@ -14,7 +14,7 @@ public class TC_01_LoginTest extends BaseClass
 	@Test
 	public void loginverify() throws InterruptedException, IOException
 	{
-		Thread.sleep(3000);
+		Thread.sleep(3000);//this will add 3 sec pause
 		driver.get(baseURL);
 		
 		test = extent.createTest("verification of application login");
